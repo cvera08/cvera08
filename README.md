@@ -20,19 +20,15 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <str
   <img src="https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif" style="width:100%;height:auto;" />
 </div>
 
-
-
-
-
 <br>
 
 - 🔭 I’m currently working on [SmartBear & Multiple Personal Projects](https://smartbear.com/)
 
-- 👨‍💻 All of my projects are available at [https://cvera-portfolio.vercel.app/](https://cvera-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app/)
 
 - 💬 Ask me about **Automation, Cypress, Selenium, JS, QA, TypeScript, Quality & more!**
 
-- 📄 Know about my experiences [https://cvmkr.com/sJG1N](https://cvmkr.com/sJG1N)
+- 📄 Know about my experiences [cvmkr/sJG1N](https://cvmkr.com/sJG1N)
 
 - ⚡ Fun fact **I really like going fishing and spending time with my family**
 
