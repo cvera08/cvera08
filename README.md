@@ -100,7 +100,7 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <str
 <br>
 <h2 align="center">My Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cvera08&show_icons=true&locale=en&theme=github_dark" alt="cvera08" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cvera08&show_icons=true&locale=en&theme=github_dark" alt="cvera08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvera08&theme=github_dark" alt="cvera08" /></p>
 
