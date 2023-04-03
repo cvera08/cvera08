@@ -7,20 +7,20 @@
 
 𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with 12+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam (English).
 
-Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
+Accumulated a wealth of experience related to QA tasks (Manual & Hybrid), nowadays 100% Automation.
 
-As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and Native). 
-
-For most projects, I have used Jira, Git, Cypress and JS/TypeScript (or Selenium and Java).
+I had the chance to work with Web-based applications and Mobile apps (Responsive and Native). 
 
 I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Architect).
 
-Some of my professional skills are Teamwork, Proactivity, and Time management.
 </h5>
 
+<br>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvera08" alt="cvera08" /></a> </p>
+
+<br>
 
 - 🔭 I’m currently working on [SmartBear & Multiple Personal Projects](https://smartbear.com/)
 
@@ -31,6 +31,8 @@ Some of my professional skills are Teamwork, Proactivity, and Time management.
 - 📄 Know about my experiences [https://cvmkr.com/sJG1N](https://cvmkr.com/sJG1N)
 
 - ⚡ Fun fact **I really like going fishing and spending time with my family**
+
+<br>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -46,6 +48,9 @@ Some of my professional skills are Teamwork, Proactivity, and Time management.
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
   </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+    </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/28716586/229623390-49abb637-13ce-4ba3-af03-77225c492e6f.svg" alt="jira" width="40" height="40" />
   </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
