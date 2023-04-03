@@ -1,17 +1,17 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cvera08&label=Profile%20views&color=0e75b6&style=flat" alt="cvera08" /> </p>
 
 <h1 align="center"> 👋 Hi! I'm Carlos & Welcome to my Profile</h1>
-<h2 align="center">A passionate Automation QA from Argentina</h2>
+<h3 align="center">A passionate Automation QA from Argentina</h3>
 
 <h4 align="center">
 
-**𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with 12+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
+<strong>𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</strong> with 12+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
 
-Accumulated a wealth of experience related to QA tasks (Manual & Hybrid), nowadays 100% **Automation**.
+Accumulated a wealth of experience related to QA tasks (Manual & Hybrid), nowadays 100% <strong>Automation</strong>.
 
-I had the chance to work with Web-based applications and Mobile apps (Responsive and Native). 
+I had the chance to work with <strong>Web</strong>-based applications and Mobile apps (Responsive and Native). 
 
-I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Architect).
+I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <strong>Architect</strong>).
 
 </h4>
 
@@ -104,7 +104,7 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Arch
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvera08&theme=github_dark" alt="cvera08" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvera08&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cvera08" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvera08&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10" alt="cvera08" /></p>
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvera08" alt="cvera08" /></a> </p>
