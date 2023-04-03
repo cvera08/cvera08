@@ -1,9 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cvera08&label=Profile%20views&color=0e75b6&style=flat" alt="cvera08" /> </p>
 
 <h1 align="center"> 👋 Hi! I'm Carlos & Welcome to my Profile</h1>
-<h3 align="center">A passionate Automation QA from Argentina</h3>
+<h2 align="center">A passionate Automation QA from Argentina</h2>
 
-<h5 align="center">
+<h4 align="center">
 
 **𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with 12+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
 
@@ -13,11 +13,11 @@ I had the chance to work with Web-based applications and Mobile apps (Responsive
 
 I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Architect).
 
-</h5>
+</h4>
 
 <br>
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/28716586/229628697-fa2a9738-06b8-4631-b75b-e1784c0632bf.gif" style="width:100%;height:auto;" />
+  <img src="https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif" style="width:100%;height:auto;" />
 </div>
 
 
@@ -100,11 +100,11 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Arch
 <br>
 <h2 align="center">My Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvera08&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cvera08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvera08&show_icons=true&locale=en&theme=github_dark" alt="cvera08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cvera08&show_icons=true&locale=en&theme=github_dark" alt="cvera08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvera08&theme=github_dark" alt="cvera08" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvera08&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cvera08" /></p>
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvera08" alt="cvera08" /></a> </p>
