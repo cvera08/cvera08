@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Carlos & Welcome to my Profile!</h1>
 <h3 align="center">A passionate Automation QA from Argentina</h3>
 
+<h5 align="center">
+
+𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with 12+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam (English).
+
+Accumulated a wealth of experience related to QA tasks (Manual, Hybrid & Automation).
+
+As an Automation QA, I had the chance to work with Web-based applications and Mobile apps (Responsive and Native). 
+
+For most projects, I have used Jira, Git, Cypress and JS/TypeScript (or Selenium and Java).
+
+I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Architect).
+
+Some of my professional skills are Teamwork, Proactivity, and Time management.
+</h5>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cvera08&label=Profile%20views&color=0e75b6&style=flat" alt="cvera08" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvera08" alt="cvera08" /></a> </p>
