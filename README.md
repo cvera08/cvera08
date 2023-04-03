@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cvera08&label=Profile%20views&color=0e75b6&style=flat" alt="cvera08" /> </p>
 
-<h1 align="center">Hi 👋, I'm Carlos & Welcome to my Profile!</h1>
+<h1 align="center"> 👋 Hi! I'm Carlos & Welcome to my Profile</h1>
 <h3 align="center">A passionate Automation QA from Argentina</h3>
 
 <h5 align="center">
@@ -16,9 +16,13 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Arch
 </h5>
 
 <br>
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/28716586/229628697-fa2a9738-06b8-4631-b75b-e1784c0632bf.gif" style="width:100%;height:auto;" />
+</div>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvera08" alt="cvera08" /></a> </p>
+
+
 
 <br>
 
@@ -33,7 +37,6 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Arch
 - ⚡ Fun fact **I really like going fishing and spending time with my family**
 
 <br>
-
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
@@ -94,7 +97,7 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Arch
   </a>
 </p>
 
-
+<br>
 <h2 align="center">My Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvera08&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="cvera08" /></p>
@@ -103,6 +106,10 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation Arch
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvera08&theme=github_dark" alt="cvera08" /></p>
 
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvera08" alt="cvera08" /></a> </p>
+
+<br>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/carlos-vera-automation-qa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-vera-automation-qa/" height="30" width="40" /></a>
