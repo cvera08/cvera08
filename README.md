@@ -5,7 +5,7 @@
 
 <h4 align="center">
 
-<strong>𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</strong> with 12+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
+<strong>𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</strong> with 14+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
 
 Accumulated a wealth of experience related to QA tasks (Manual & Hybrid), nowadays 100% <strong>Automation</strong>.
 
@@ -22,15 +22,15 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <str
 
 <br>
 
-- 🔭 I’m currently working on [SmartBear & Multiple Personal Projects](https://smartbear.com/)
+- 🔭 I’m currently working on [SmartBear & Multiple Personal Projects](https://smartbear.com/).
 
-- 👨‍💻 All of my projects are available at [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app/).
 
 - 💬 Ask me about **Automation, Cypress, Selenium, JS, QA, TypeScript, Quality & more!**
 
-- 📄 Know about my experiences [cvmkr/sJG1N](https://cvmkr.com/sJG1N)
+- 📄 Know about my experiences [cvmkr/sJG1N](https://cvmkr.com/sJG1N).
 
-- ⚡ Fun fact **I really like going fishing and spending time with my family**
+- ⚡ Fun fact **I really like going fishing and spending time with my family**.
 
 <br>
 <h2 align="center">Languages and Tools</h2>
