@@ -26,9 +26,9 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <str
 
 - 👨‍💻 All of my projects are available at [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app/).
 
-- 💬 Ask me about **Automation, Cypress, Selenium, JS, QA, TypeScript, Quality & more!**
+- 💬 Ask me about **Automation, Playwright, Cypress, Selenium, QA, JS, TypeScript, Quality _& more!_**
 
-- 📄 Know about my experiences [cvmkr/sJG1N](https://cvmkr.com/sJG1N).
+- 📄 Know about my experiences [short-resume](https://cvera08.github.io/short-resume/).
 
 - ⚡ Fun fact **I really like going fishing and spending time with my family**.
 
