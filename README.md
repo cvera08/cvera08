@@ -22,7 +22,7 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <str
 
 <br>
 
-- 🔭 I’m currently working on [SmartBear & Multiple Personal Projects](https://smartbear.com/).
+- 🔭 I’m currently working on [Blackpoint](https://blackpointcyber.com/) & [Multiple Personal Projects](https://github.com/cvera08?tab=repositories).
 
 - 👨‍💻 All of my projects are available at [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app/).
 
