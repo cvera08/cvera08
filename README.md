@@ -108,7 +108,7 @@ I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <str
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvera08&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Issues&theme=algolia" alt="cvera08" /></a> </p>
 
 <br>
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">Let's Connect and Drive Quality together!</h2>
 <p align="center">
 <a href="https://linkedin.com/in/carlos-vera-automation-qa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-vera-automation-qa/" height="30" width="40" /></a>
 </p>
