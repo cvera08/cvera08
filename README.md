@@ -5,7 +5,7 @@
 
 <h4 align="center">
 
-<strong>𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</strong> with 14+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
+<strong>𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</strong> with 16+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
 
 Accumulated a wealth of experience related to QA tasks (Manual & Hybrid), nowadays 100% <strong>Automation</strong>.
 
