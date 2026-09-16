@@ -1,112 +1,33 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cvera08&label=Profile%20views&color=0e75b6&style=flat" alt="cvera08" /> </p>
+# 👋 Hi! I'm Carlos & Welcome to my Profile
 
-<h1 align="center"> 👋 Hi! I'm Carlos & Welcome to my Profile</h1>
-<h3 align="center">A passionate Automation QA from Argentina</h3>
+### AI Quality Engineer & QA Automation Architect — building test & evaluation frameworks for AI-powered products
 
-<h4 align="center">
+**System Engineer** with 16+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam. Spent most of that time in 100% **Automation**, working across Web and Mobile (Responsive and Native). Now focused on **quality engineering for AI-powered products**: LLM evaluation pipelines, agent testing, and AI observability wired into CI/CD.
 
-<strong>𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿</strong> with 16+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
+[![](https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif)](https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif)
 
-Accumulated a wealth of experience related to QA tasks (Manual & Hybrid), nowadays 100% <strong>Automation</strong>.
-
-I had the chance to work with <strong>Web</strong>-based applications and Mobile apps (Responsive and Native). 
-
-I'm interested in 100% Automation QA or QA Technical Lead areas (Automation <strong>Architect</strong>).
-
-</h4>
-
-<br>
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif" style="width:100%;height:auto;" />
-</div>
-
-<br>
-
-- 🔭 I’m currently working on [Blackpoint](https://blackpointcyber.com/) & [Multiple Personal Projects](https://github.com/cvera08?tab=repositories).
+- 🔭 I'm currently building **quality engineering for AI-powered products** at [SmartEquip](https://www.smartequip.com/), plus ongoing **[R&D in LLM evaluation and agent testing](https://www.linkedin.com/feed/update/urn:li:activity:7468662916599140353/)**.
 
 - 👨‍💻 All of my projects are available at [cvera-portfolio.vercel.app](https://cvera-portfolio.vercel.app/).
 
-- 💬 Ask me about **Automation, Playwright, Cypress, Selenium, QA, JS, TypeScript, Quality _& more!_**
+- 💬 Ask me about **Playwright, Python, LLM Evaluation, AI Observability, Test Automation, TypeScript & more!**
 
-- 📄 Know about my experiences [short-resume](https://cvera08.github.io/short-resume/).
+- 📄 Full resume: [cvera08.github.io/full-resume](https://cvera08.github.io/full-resume/).
 
 - ⚡ Fun fact **I really like going fishing and spending time with my family**.
 
-<br>
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" alt="selenium" width="40" height="40" />
-  </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-  </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-    </a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/28716586/229623390-49abb637-13ce-4ba3-af03-77225c492e6f.svg" alt="jira" width="40" height="40" />
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-  </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-  </a>
-    <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" />
-  </a>
-    <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-  </a>
-      <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40" />
-  </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-    <a href="https://developer.apple.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/28716586/229621922-505b7100-41e6-491e-b4c3-984dc233dab4.svg" alt="ios" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
-  </a>
-</p>
+## Languages and Tools
 
-<br>
-<h2 align="center">My Stats</h2>
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) [![playwright](https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg)](https://playwright.dev/) [![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/) [![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![git](https://camo.githubusercontent.com/830ab0a04d79ea91499fd105d265e582bf1e2cdb51a678ba28ee8dfd5031d19b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667)](https://git-scm.com/) [![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com) [![cypress](https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg)](https://www.cypress.io) [![selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)](https://www.selenium.dev) [![postman](https://camo.githubusercontent.com/8c088e69ac55dcd5e90e968d47df51efa1c7bec7db5d0a2dee3b7f59adebc237/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)](https://postman.com) [![jenkins](https://camo.githubusercontent.com/a7ef0988f24446c74d7687f0e9925870feec7865fc3f126efcb5c4617cca602d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667)](https://www.jenkins.io) [![circleci](https://camo.githubusercontent.com/3cf0b63720ccecdcaf329a356591a5d086a0cf13c7ca79f21f84d5af6f1431f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636972636c6563692f636972636c6563692d69636f6e2e737667)](https://circleci.com) [![jira](https://user-images.githubusercontent.com/28716586/229623390-49abb637-13ce-4ba3-af03-77225c492e6f.svg)](https://www.atlassian.com/software/jira) [![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) [![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) [![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org) [![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com) [![bash](https://camo.githubusercontent.com/a164766c8ed5e23739cf6e3c289b250bbaf652c015ecf7b5e568f0740aa2efdc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667)](https://www.gnu.org/software/bash/) [![ruby](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg)](https://www.ruby-lang.org/en/) [![android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com) [![ios](https://user-images.githubusercontent.com/28716586/229621922-505b7100-41e6-491e-b4c3-984dc233dab4.svg)](https://developer.apple.com) [![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/) [![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) [![heroku](https://camo.githubusercontent.com/636e1749dfe1f8f7666cd9d4b8849df990b28e60f9fdd3e24f0e2cc01a15d849/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667)](https://heroku.com) [![puppeteer](https://camo.githubusercontent.com/d301c9e3a1d71bd0d78474a7083e834bf077ec8e6a8b36b784b8c421f1c9ef21/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707074726465762f707074726465762d6f6666696369616c2e737667)](https://github.com/puppeteer/puppeteer) [![jest](https://camo.githubusercontent.com/75647a180b60681c2f764c801085111429a9f8bfb6bfbe4d8291ff6c8bc81ba8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667)](https://jestjs.io) [![mocha](https://camo.githubusercontent.com/ce0d271a0b24d7bb1953451e79d32d575e7ada6bfe73b56103f93212168265b8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6368616a732f6d6f6368616a732d69636f6e2e737667)](https://mochajs.org) [![jasmine](https://camo.githubusercontent.com/8febd25c5fc787ddd269079ccf1d8708af22530cdf0744556e33f05f35b03fbf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a61736d696e652f6a61736d696e652d69636f6e2e737667)](https://jasmine.github.io/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvera08&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&card_width=495" alt="cvera08" /></p>
+## My Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cvera08&show_icons=true&locale=en&theme=github_dark&hide=contribs,issues&card_width=495" alt="cvera08" /></p>
+[![cvera08](https://camo.githubusercontent.com/9d5a7c8e638b9ba2512225874d9f89064232a20f6cf3d7ff9d4c82bfb8fc3852/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d637665726130382673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b266c616e67735f636f756e743d313026636172645f77696474683d343935)](https://camo.githubusercontent.com/9d5a7c8e638b9ba2512225874d9f89064232a20f6cf3d7ff9d4c82bfb8fc3852/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d637665726130382673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b266c616e67735f636f756e743d313026636172645f77696474683d343935)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cvera08&theme=github_dark" alt="cvera08" /></p>
+[![cvera08](https://camo.githubusercontent.com/a8abd69b53aebec9d4fae158f0e90b9f41d79bfddb86d0de114ff385ec1ff24f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d637665726130382673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d6769746875625f6461726b26686964653d636f6e74726962732c69737375657326636172645f77696474683d343935)](https://camo.githubusercontent.com/a8abd69b53aebec9d4fae158f0e90b9f41d79bfddb86d0de114ff385ec1ff24f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d637665726130382673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d6769746875625f6461726b26686964653d636f6e74726962732c69737375657326636172645f77696474683d343935)
 
-<br>
-<h2 align="center">Let's Connect and Drive Quality Together!</h2>
-<p align="center">
-<a href="https://linkedin.com/in/carlos-vera-automation-qa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-vera-automation-qa/" height="30" width="40" /></a>
-</p>
+[![cvera08](https://camo.githubusercontent.com/6bb5974907f58d5603841970133ca7827ae8944273e071f79910d3efcb5d3fe0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63766572613038267468656d653d6769746875625f6461726b)](https://camo.githubusercontent.com/6bb5974907f58d5603841970133ca7827ae8944273e071f79910d3efcb5d3fe0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63766572613038267468656d653d6769746875625f6461726b)
+
+## Let's Connect and Drive Quality Together!
+
+[![carlos-vera-automation-qa/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/carlos-vera-automation-qa/)
