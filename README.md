@@ -69,6 +69,7 @@ Now focused on <strong>quality engineering for AI-powered products</strong>:<br/
 
 [![cvera08](https://camo.githubusercontent.com/6bb5974907f58d5603841970133ca7827ae8944273e071f79910d3efcb5d3fe0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63766572613038267468656d653d6769746875625f6461726b)](https://camo.githubusercontent.com/6bb5974907f58d5603841970133ca7827ae8944273e071f79910d3efcb5d3fe0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63766572613038267468656d653d6769746875625f6461726b)
 
-## Let's Connect and Drive Quality Together!
-
-[![carlos-vera-automation-qa/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/carlos-vera-automation-qa/)
+<h2 align="center">Let's Connect and Drive Quality Together!</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/carlos-vera-automation-qa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-vera-automation-qa/" height="30" width="40" /></a>
+</p>
