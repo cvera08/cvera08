@@ -1,10 +1,22 @@
-# 👋 Hi! I'm Carlos & Welcome to my Profile
+<h1 align="center">👋 Hi! I'm Carlos & Welcome to my Profile</h1>
 
-### AI Quality Engineer & QA Automation Architect — building test & evaluation frameworks for AI-powered products
+<h3 align="center">AI Quality Engineer & QA Automation Architect</h3>
 
-**System Engineer** with 16+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam. Spent most of that time in 100% **Automation**, working across Web and Mobile (Responsive and Native). Now focused on **quality engineering for AI-powered products**: LLM evaluation pipelines, agent testing, and AI observability wired into CI/CD.
+<h4 align="center">building test & evaluation frameworks for AI-powered products</h4>
 
-[![](https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif)](https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif)
+<h4 align="center">
+
+<strong>System Engineer</strong> with 16+ years of hands-on experience in software development, certified in ISTQB, and have passed the IELTS exam.
+
+Spent most of that time in 100% <strong>Automation</strong>, working across Web and Mobile (Responsive and Native).
+
+Now focused on <strong>quality engineering for AI-powered products</strong>:<br/>LLM evaluation pipelines, agent testing, and AI observability wired into CI/CD.
+
+</h4>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/28716586/229630292-503d76ac-e2e0-4f4a-837d-bf78851b41d9.gif" style="width:100%;height:auto;" />
+</div>
 
 - 🔭 I'm currently building **quality engineering for AI-powered products** at [SmartEquip](https://www.smartequip.com/), plus ongoing **[R&D in LLM evaluation and agent testing](https://www.linkedin.com/feed/update/urn:li:activity:7468662916599140353/)**.
 
